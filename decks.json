@@ -1,0 +1,84 @@
+{
+    "unit-1": {
+        "history": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            },
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "geography": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-dates": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-characters": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ]
+    },
+    "unit-2": {
+        "history": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "geography": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-dates": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-characters": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ]
+    },
+    "unit-3": {
+        "history": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "geography": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-dates": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ],
+        "history-characters": [
+            {
+                "term": "مصطلح",
+                "definition": "الشرح"
+            }
+        ]
+    }
+}
